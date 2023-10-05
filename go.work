@@ -1,0 +1,26 @@
+go 1.21.1
+
+use (
+	./01_Go
+	./02_user_input
+	./03_array
+	./04_slices
+	./05_maps
+	./06_structs
+	./07_ifelse
+	./08_switch
+	./09_loop
+	./10_func
+	./11_methods
+	./12_defer
+	./13_files
+	./14_web
+	./15_urls
+	./16_server/go_backend
+	./17_json
+	./18_mod
+	./19_buildapi
+	./20_mongo
+	./21_goroutines
+	./22_channels
+)
